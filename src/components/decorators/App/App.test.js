@@ -1,4 +1,4 @@
-import App from './App'
+import App from '@components/decorators/App/App'
 import React from 'react'
 import {shallow} from 'enzyme'
 
