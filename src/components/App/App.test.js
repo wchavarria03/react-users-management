@@ -1,4 +1,5 @@
-import App from '@components/decorators/App/App'
+// import App from '@components/App/App.jsx'
+import App from './App.jsx'
 import React from 'react'
 import {shallow} from 'enzyme'
 

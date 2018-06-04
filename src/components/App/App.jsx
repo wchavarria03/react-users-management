@@ -1,5 +1,5 @@
 import React from 'react';
-import Form from '@components/decorators/Form';
+import Form from '@/components/UI/Form';
 
 export default () => (
   <div>
